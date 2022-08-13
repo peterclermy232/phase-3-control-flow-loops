@@ -33,5 +33,4 @@ def reverse_string(str)
   str.length.times do|i|
     reversed_string = str[i] + reversed_string
 end
-reversed_string
-end
+rever

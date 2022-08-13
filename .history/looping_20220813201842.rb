@@ -34,4 +34,4 @@ def reverse_string(str)
     reversed_string = str[i] + reversed_string
 end
 reversed_string
-end
+
